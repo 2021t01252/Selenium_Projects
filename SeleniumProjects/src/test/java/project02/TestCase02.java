@@ -10,6 +10,8 @@ public class TestCase02 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		//project2
+		
 		WebDriver driver = new FirefoxDriver();
 		
 		driver.get("https://www.demo.guru99.com/V4/");
